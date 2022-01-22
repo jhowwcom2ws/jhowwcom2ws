@@ -32,4 +32,3 @@
  </div>
   
  
-  ![Snake animation](https://github.com/jhowwcom2ws/jhowwcom2ws/blob/output/github-contribution-grid-snake.svg)
