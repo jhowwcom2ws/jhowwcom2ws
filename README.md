@@ -20,7 +20,7 @@
   <img align="center" alt="Jhow-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jhow-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jhow-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Jhow-pic" height="120" style="border-radius:50px;" src="https://media.discordapp.net/attachments/886382622014599258/934273559956701226/IMG_20220114_212924_174.jpg?width=341&height=427">
+  <img align="right" alt="Jhow-pic" height="90" style="border-radius:50px;" src="https://media.discordapp.net/attachments/886382622014599258/934273559956701226/IMG_20220114_212924_174.jpg?width=341&height=427">
 </div>
   
 ##
