@@ -1,12 +1,10 @@
 ### Olá, sou a Jhovana, mas pode me chamar de Jhow👋
+### Meus pronomes são Ela/dela e elu/delu
 
-
-- 🔭 Sou estudante 
+- 🔭 Sou estudante de Engenharia da Computação
 - 🌱 Atualmente estou aprendendo Typescript
 - 📫 Você pode me contatar no email: jhovanasoaresrocha@gmail.com
-- 😄 Pronomes: ela/dela
-- 🎨 Fun fact: Sou artista. Danço, canto, desenho e toco alguns instrumentos.
-- 📣 Idiomas: inglês intermediário e atualmente aprendendo língua brasileira de sinais (LIBRAS).
+- 📣 Idiomas: inglês, espanhol e atualmente aprendendo língua brasileira de sinais (LIBRAS).
 
 <div align="center">
   <a href="https://github.com/jhowwcom2ws">
