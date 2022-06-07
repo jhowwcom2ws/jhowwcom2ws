@@ -1,9 +1,8 @@
-### Olá, sou a Jhovana, mas pode me chamar de Jhow👋
-### Meus pronomes são Ela/dela
+### Pode me chamar de Jhow :)
+### Ela/dela
 
-- 🔭 Sou estudante de Engenharia da Computação
-- 🌱 Atualmente estou aprendendo Typescript
-- 📫 Você pode me contatar no email: jhovanasoaresrocha@gmail.com
+- 🔭 Estudante de Engenharia da Computação
+- 📫 jhovanasoaresrocha@gmail.com
 
 <div align="center">
   <a href="https://github.com/jhowwcom2ws">
